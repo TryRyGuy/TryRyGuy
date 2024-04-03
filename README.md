@@ -27,6 +27,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RyanTrimble-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-trimble-7791b9281/)
 
+<!--
 <div align="center">
     <h2>🚀 My Github Commits</h2>
 </div>
