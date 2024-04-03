@@ -31,6 +31,12 @@
     <h2>🚀 My Github Commits</h2>
 </div>
 
+<div> 
+</br>
+ 
+  ![Snake animation](https://github.com/TryRyGuy/TryRyGuy/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 <!--
