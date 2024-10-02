@@ -32,13 +32,13 @@
 
 <p>I am an aspiring Software Engineer based out of the San Francisco Bay Area</p>
 
-- :man_student: I'm a current junior at the University of California, Santa Cruz pursuing a Bachelor's degree in Computer Engineering: Systems Programming
+- :man_student: I'm currently a 4th year at the University of California, Santa Cruz pursuing a Bachelor's degree in Computer Engineering: Systems Programming
 
 - :telescope: My current goal is to amass as much knowledge and experience as possible before joining the ever-expanding tech industry
 
-- :seedling: Currently exploring Computer Systems, Operating Systems, Cloud Computing, and the advanced toolkit provided by AWS. I plan to get AWS certified this upcoming summer.
+- :seedling: Currently exploring Fundamental Computer Systems, Operating Systems, Distributed Systems, Cloud Computing, and how to best leverage the advanced toolkit provided by AWS. I plan to get AWS certified this fall when time permits.
 
-- :zap: In my free time, I currently do LeetCode problems and develop personal projects as well as read the TLDR newsletter tech newsletter
+- :zap: In my free time, I currently do LeetCode problems to keep my coding skillset sharp, develop personal projects with a team of my friends or on my own, and read the TLDR tech newsletter
 - <div align = "left">
   :mailbox: How to reach me: 
   <a href="https://www.linkedin.com/in/ryan-trimble-7791b9281/">
